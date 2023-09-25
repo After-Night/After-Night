@@ -1,7 +1,7 @@
 -  Hello, I’m @After-Night
-- I’m interested in coding and learning LUA, I am a part of the SmokeX Roblox Bedwars cheat project.
--  I’m currently learning LUA code because I look fowards to creating roblox scripts in the future.
--  If you want to join the SmokeX Server enther this link.
+-  I’m interested in coding and learning LUA, I am a part of the SmokeX Roblox Bedwars cheat project.
+-  I’m currently learning LUA code because I look forwards to creating Roblox scripts in the future.
+-  If you want to join the SmokeX Server enter this link.
 - ------------------------------------------------------------------------------------------------------
                                                        discord.gg/uzne6rPhHf
 
